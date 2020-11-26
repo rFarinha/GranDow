@@ -4,7 +4,15 @@ My grandmother keeps forgeting about the day of the week for her pills. Unfortun
 
 Feel free to edit and create your own clock.
 
-More instructions at:
+### Available languages
+1. English
+2. Portuguese
+3. Spanish
+4. German
+5. Italian
+6. French
+
+### More instructions at:
 
 https://www.instructables.com/GranDow-Simple-Multilanguage-Digital-Clock/
 
