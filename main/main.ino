@@ -62,6 +62,8 @@ void setup() {
 
 
 void loop() {
+  // Add lcd clear to clean previous weekday letters
+  lcd.clear();
   // Read Time
   DateTime now = rtc.now();
 
